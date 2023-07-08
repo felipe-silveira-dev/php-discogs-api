@@ -1,5 +1,5 @@
 {
-    "name": "ricbra/php-discogs-api",
+    "name": "felipe-silveira-dev/php-discogs-api",
     "description": "The Discogs API makes it easy for developers to communicate with the Discogs platform",
     "type": "library",
     "keywords": ["discogs", "api"],
@@ -15,7 +15,7 @@
     },
     "authors": [
         {
-            "name": "Richard van den Brand",
+            "name": "Richard van den Brand (original author) / Felipe Silveira (forked)",
             "email": "richard@vandenbrand.org"
         }
     ],
