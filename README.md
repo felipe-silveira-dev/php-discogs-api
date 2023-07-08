@@ -1,5 +1,6 @@
+```This package is not auto-updated. Please set up the GitHub Hook for Packagist so that it gets updated whenever you push!```
 ## Discogs Api
-
+    
 [![Build Status](https://secure.travis-ci.org/ricbra/php-discogs-api.png)](http://travis-ci.org/ricbra/php-discogs-api)
 [![Latest Stable Version](https://poser.pugx.org/ricbra/php-discogs-api/v/stable.svg)](https://packagist.org/packages/ricbra/php-discogs-api)
 [![Total Downloads](https://poser.pugx.org/ricbra/php-discogs-api/downloads.png)](https://packagist.org/packages/ricbra/php-discogs-api)
